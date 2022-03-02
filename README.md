@@ -154,3 +154,5 @@ mkdir ~/jenkins
 Go to jenkins > manage jenkins > configure cloud 
 For credentials > AWS credentials > enter key id and secret access key from excel file
 Paste ami ID, select 
+
+![JenkinswithAnsible](images/jenkins_ansible.png)
